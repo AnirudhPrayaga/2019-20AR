@@ -1,0 +1,121 @@
+body{
+  background-color: #ffdbc5;
+  color :  #423144;
+  margin: 0;
+  width : 100%;
+  text-align: center;
+font-family: 'Merriweather', serif;
+font-size: 2em;
+}
+
+.top-cloud{
+  position: relative;
+  left: 350px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  bottom : auto;
+  left : 300px;
+}
+
+hr{
+  margin: 40px auto;
+  border: dotted;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-width: thick;
+  width: 90%;
+}
+
+.top-container{
+  background-color: #ffdbc5;
+
+}
+
+.middle-container{
+margin-top: 30px;
+
+margin-bottom: 15px;
+
+}
+
+.ani{
+  margin: auto;
+  border-radius: 50%;
+  width: 300px;
+}
+
+a{
+  color: #1b6ca8;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #01a9b4;
+}
+
+.bottom-container{
+  background-color: #ffdbc5;
+  max-height: 100px;
+  height: 100%;
+
+
+}
+
+.copyright{
+  color: #423144;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-cloud{
+  border-radius: 50%;
+}
+
+.bottom-cloud{
+  border-radius: 50%;
+}
+
+.accomplishments{
+  padding-bottom: 50px;
+}
+
+.accomplish-Links{
+  text-align: left;
+  position: relative;
+  left: 305px;
+  bottom : 12px;
+}
+
+.yr{
+  float: left;
+  width : 25%;
+  position: relative;
+  left: 280px;
+  bottom: 10px;
+}
+
+.ani{
+  margin-top: 30px;
+}
+
+.bullets{
+  font-size: 1.25em;
+  text-align: center;
+  line-height: 2;
+}
+
+.paras{
+  font-size: .85em;
+  text-align: center;
+
+}
+
+.link-heading{
+
+  font-size: 1.75em;
+
+}
